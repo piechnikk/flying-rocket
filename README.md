@@ -16,7 +16,7 @@ This is a simple jQuery app built using JavaScript and jQuery. The project was c
 
 Explore the [live demo](https://piechnikk.github.io/flying-rocket/) of the flying-rocket website.
 
-## Getting Started
+## Setup
 
 To get a copy of this project up and running on your local machine, follow these steps:
 
@@ -40,7 +40,7 @@ Open the `index.html` file in your preferred web browser to view the website. Th
 
   ![Home Page](https://github.com/piechnikk/flying-rocket/assets/51060535/b962c164-f2c4-4058-acf1-d3e48d1add40)
 
-## Build With
+## Technologies
 
 <div>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"> 
